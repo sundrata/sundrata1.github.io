@@ -1,0 +1,106 @@
+
+body {
+  background-color: #E6E6E6;
+  }
+
+  #container {
+    width: 850px;
+    margin: 40px auto 50px;
+    background-image: url("http://www.allvectors.com/wp-content/uploads/2014/08/white-pattern.jpg");
+    background-size: cover;
+}
+
+.title {
+  text-align: center;
+  font-family: Helvetica, serif;
+  font-size: 4rem;
+  color: #34C7D0;
+  -webkit-text-fill-color: #34c7d0;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  margin-bottom: 2px;
+  margin-top: 50px;
+}
+
+.title-desc {
+  text-align: center;
+  font-family: Helvetica, serif;
+  font-size: 1.5rem;
+  color: black;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+br {
+  line-height: 150%;
+}
+
+.heading {
+  font-family: Helvetica, serif;
+  font-size: 2.5rem;
+  color: #3a3a3a;
+  font-weight: bold;
+  font-style: oblique;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 10px;
+}
+
+.body-text {
+    text-align: center;
+    font-family: Helvetica, serif;
+    font-size: 1.25rem;
+    font-style: oblique;
+    color: black;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  img {
+    object-fit: cover;
+    height: 250px;
+    width: 250px;
+    border: 2px solid #3a3a3a;
+  }
+
+  video {
+    height: 320px;
+    width: 180px;
+  }
+
+  .me-images {
+    display: inline;
+    margin-left: 37px;
+    margin-right: 37px;
+    }
+
+  .work-media {
+    display: inline;
+  }
+
+li {
+  text-align: left;
+  list-style-position: inside;
+  font-family: Helvetica, serif;
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.list-text{
+  text-align: center;
+  font-family: Helvetica, serif;
+  font-size:
+}
+
+  #carbone {
+    margin: 13px;
+    float:left
+  }
+
+
+  #buckhill {
+    margin: 13px;
+    float:right
+  }
